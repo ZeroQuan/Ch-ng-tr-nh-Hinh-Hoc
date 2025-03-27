@@ -1,0 +1,7 @@
+
+Tròn, R = 2, S = 12.566
+Tròn, R = 2, S = 12.566
+Tròn, R = 2, S = 12.566
+Ellipse, a = 2, b = 3, S = 4.712
+Ellipse, a = 2, b = 3, S = 4.712
+Ellipse, a = 2, b = 3, S = 4.712

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "QLHH_2200011643/1.0.0": {
+        "runtime": {
+          "QLHH_2200011643.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QLHH_2200011643/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
